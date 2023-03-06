@@ -1,4 +1,4 @@
-# WitchInTheWoods
+# Beat Bot Battle
 This game was made in one weekend for Global Game Jam 2023
 
 The game is a VR game made using UE4.27 and deployed to Oculus Quest 2. It is Blueprint only.
